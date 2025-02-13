@@ -20,7 +20,7 @@ public class Variable2 {
 		Variable2 v3 = new Variable2();
 		System.out.println(v3.num1);
 		
-		
+		System.out.println( "Edited here");
 		System.out.println();
 		System.out.println("******Static Variable*****");
 		System.out.println();
