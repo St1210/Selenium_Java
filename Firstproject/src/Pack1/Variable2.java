@@ -2,6 +2,7 @@ package Pack1;
 
 public class Variable2 {
 	
+	
 	int num1 = 500;
 	static int num2 = 900;
 

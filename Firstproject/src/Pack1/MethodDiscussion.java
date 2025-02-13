@@ -2,6 +2,7 @@ package Pack1;
 
 public class MethodDiscussion {
     
+	
     // Static method
     public static void Method1() {
         System.out.println("Static method - Method1");
